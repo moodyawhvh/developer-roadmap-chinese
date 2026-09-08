@@ -41,6 +41,9 @@ developer-roadmap 是知名开发者学习网站 [roadmap.sh](https://roadmap.sh
 |:-----|:-----|
 | README.md | 本文件(中文简介) |
 | README.zh-CN.md | 详细中文文档(完整汉化) |
+| contributing.md | 贡献指南(中文版) |
+| code_of_conduct.md | 行为准则(中文版) |
+| roadmaps/ | 精选路线图知识点中文文档(持续补充,完整内容见原项目) |
 
 ## 🚀 快速开始
 
